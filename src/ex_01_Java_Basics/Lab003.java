@@ -11,8 +11,8 @@ public class Lab003 {
         int a= sc.nextInt();
         System.out.println("Second Number:");
         int b= sc.nextInt();
-        //System.out.println("sum of %d and %d: " + (a+b));
-        System.out.printf("The sum of %d and %d is: %d%n" ,a,b,(a+b));
+        System.out.printf("sum of %d and %d: %d%n" ,a, b, a+b);
+        //System.out.printf("The sum of %d and %d is: %d%n" ,a,b,a+b);
 
     }
 }
