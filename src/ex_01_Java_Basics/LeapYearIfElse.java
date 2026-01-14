@@ -1,6 +1,6 @@
 package ex_01_Java_Basics;
 
-import java.sql.SQLOutput;
+
 import java.util.Scanner;
 
 public class LeapYearIfElse {
