@@ -1,4 +1,4 @@
-package ex_01_Java_Basics;
+package InterviewCodingQuestions;
 
 import java.util.Scanner;
 

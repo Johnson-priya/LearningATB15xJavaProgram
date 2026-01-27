@@ -6,7 +6,7 @@ public class SimpleCalcFunction {
 
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        int a=readInt(sc, "Enter the num1:");
+        int a=readInt(sc, "Enter the num1:");  //this function will check if the integer is coming or not
         int b=readInt(sc, "Enter the num2:");
 
         int sumOfNo=sum(a,b);
