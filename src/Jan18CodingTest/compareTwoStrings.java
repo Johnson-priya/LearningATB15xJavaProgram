@@ -1,4 +1,4 @@
-package Coding_Test;
+package Jan18CodingTest;
 
 public class compareTwoStrings {
     public static void main(String[] args) {
